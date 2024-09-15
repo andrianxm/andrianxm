@@ -1,5 +1,14 @@
-## Hi there 👋
+# Halo semua selamat datang! 
 
+Perkenalkan nama saya **Andrian Maulana**.<br>
+
+Saya seorang **Mahasiswa** di [UPGRIS](https://upgris.ac.id/).<br>
+
+Saya sedang menempuh semester 5.<br>
+
+Saya juga memiliki beberapa skill pemrograman.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/andrian-maulana-696310244/) ku ya.
 <!--
 **andrianxm/andrianxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
