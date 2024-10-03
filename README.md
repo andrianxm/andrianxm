@@ -4,6 +4,16 @@
 - 🌱 I’m currently learning **Android**
 
 - 📫 How to reach me **andrianmaulana5612@gmail.com**
+```kotlin
+fun main() {
+    val name = "Andrian"
+    val status = "masih berproses"
+
+    println("Halo, nama saya $name.")
+    println("Saya $status dalam belajar ngoding.")
+}
+
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
